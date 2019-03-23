@@ -1,0 +1,9 @@
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.BAL\bin\Debug\App.BAL.dll
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.BAL\bin\Debug\App.BAL.pdb
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.BAL\bin\Debug\App.DAL.dll
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.BAL\bin\Debug\App.DAL.pdb
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.BAL\obj\Debug\App.BAL.csprojAssemblyReference.cache
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.BAL\obj\Debug\App.BAL.csproj.CoreCompileInputs.cache
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.BAL\obj\Debug\App.BAL.csproj.CopyComplete
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.BAL\obj\Debug\App.BAL.dll
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.BAL\obj\Debug\App.BAL.pdb

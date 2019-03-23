@@ -1,0 +1,6 @@
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.DAL\bin\Debug\App.DAL.dll
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.DAL\bin\Debug\App.DAL.pdb
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.DAL\obj\Debug\App.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.DAL\obj\Debug\App.DAL.dll
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.DAL\obj\Debug\App.DAL.pdb
+C:\Users\Gourav Kumar\source\repos\TestApplication\App.DAL\obj\Debug\App.DAL.csprojAssemblyReference.cache
